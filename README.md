@@ -22,6 +22,6 @@ M.S. student interested in robotics, embodied intelligence, and AI.
 ## 🔗 Links
 
 [Website](YOUR_WEBSITE)
-· [Google Scholar](YOUR_SCHOLAR)
-· [ORCID](YOUR_ORCID)
-· [LinkedIn](YOUR_LINKEDIN)
+· [Google Scholar](https://scholar.google.com/citations?user=7NtlNCAAAAAJ&hl=ja)
+· [ORCID](https://orcid.org/0009-0004-7215-6642)
+· [LinkedIn](https://www.linkedin.com/in/kyorosuke/)
