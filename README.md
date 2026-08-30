@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm kyorosuke 👋
 
-<!--
-**kyorosuke/kyorosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student interested in robotics, embodied intelligence, and AI.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soft Robotics
+- Embodied AI
+- Physical Reservoir Computing
+- Machine Learning
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🔗 Links
+
+[Website](YOUR_WEBSITE)
+· [Google Scholar](YOUR_SCHOLAR)
+· [ORCID](YOUR_ORCID)
+· [LinkedIn](YOUR_LINKEDIN)
